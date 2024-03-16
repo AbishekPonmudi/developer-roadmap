@@ -17,7 +17,7 @@ C++ supports object-oriented programming (OOP) - a paradigm that allows you to d
 class MyClass {
     public:
         void myFunction() {
-            // Code here
+            std::cout << "hello world" << std::endl ;
         }
 };
 
